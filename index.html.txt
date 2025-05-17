@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>من أنا؟</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Tahoma, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #6a0dad;
+    }
+    p {
+      color: #333;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>مرحبًا! أنا جيجي 💜</h1>
+  <p>أحب البرمجة وأحلم أشتغل في مجال الهايتك.</p>
+  <p>هذا أول مشروع لي على GitHub!</p>
+</body>
+</html>
